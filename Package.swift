@@ -17,7 +17,8 @@ let package = Package(
     .package(name: "Realm", url: "https://github.com/realm/realm-cocoa.git", from: "10.6.0"),
     .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.4.1")),
     .package(name: "SDWebImageSwiftUI", url: "https://github.com/SDWebImage/SDWebImageSwiftUI.git", from: "1.5.0"),
-    .package(name: "SwiftUIRefresh", url: "https://github.com/timbersoftware/SwiftUIRefresh.git", from: "0.0.3")
+    .package(name: "SwiftUIRefresh", url: "https://github.com/timbersoftware/SwiftUIRefresh.git", from: "0.0.3"),
+    .package(name: "SwiftLint", url: "https://github.com/realm/SwiftLint.git", from: "0.42.0")
   ],
   targets: [
     // Targets are the basic building blocks of a package. A target can define a module or a test suite.
@@ -28,7 +29,8 @@ let package = Package(
         .product(name: "RealmSwift", package: "Realm"),
         "Alamofire",
         "SDWebImageSwiftUI",
-        "SwiftUIRefresh"
+        "SwiftUIRefresh",
+        "SwiftLint"
       ]),
     .testTarget(
       name: "CoreTests",

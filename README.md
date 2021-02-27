@@ -9,7 +9,7 @@ Starter kit for iOS.
 -------------
 ### Swift Package Manager
 ```
-$ https://github.com/tattn/HackathonStarter hack
+$ https://github.com/wanharaderta/ios-starter.git
 
 ```
 

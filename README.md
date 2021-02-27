@@ -18,4 +18,5 @@ $ https://github.com/wanharaderta/ios-starter.git
 2. [Alamofire](https://github.com/Alamofire/Alamofire)
 3. [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)
 4. [SwiftUIRefresh](https://github.com/siteline/SwiftUIRefresh)
+5. [SwiftLint](https://github.com/realm/SwiftLint)
 

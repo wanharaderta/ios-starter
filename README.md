@@ -13,3 +13,9 @@ $ https://github.com/wanharaderta/ios-starter.git
 
 ```
 
+### Dependencies
+1. [@Realm](https://github.com/realm/realm-cocoa)
+2. [@Alamofire](https://github.com/Alamofire/Alamofire)
+3. [@SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)
+4. [@SwiftUIRefresh](https://github.com/siteline/SwiftUIRefresh)
+

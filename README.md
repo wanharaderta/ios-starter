@@ -8,7 +8,6 @@ Starter kit for iOS.
 ## Installation
 -------------
 ### Swift Package Manager
--------------
 ```
 $ https://github.com/tattn/HackathonStarter hack
 

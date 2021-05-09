@@ -17,7 +17,7 @@ let package = Package(
     .package(name: "Realm", url: "https://github.com/realm/realm-cocoa.git", from: "10.6.0"),
     .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.4.1")),
     .package(name: "SDWebImageSwiftUI", url: "https://github.com/SDWebImage/SDWebImageSwiftUI.git", from: "1.5.0"),
-    .package(name: "Nimble", url: "https://github.com/Quick/Nimble.git", from: "9.1.0"),
+   // .package(name: "Nimble", url: "https://github.com/Quick/Nimble.git", from: "9.1.0"),
     .package(name: "Introspect", url: "https://github.com/siteline/SwiftUI-Introspect.git", from: "0.1.3")
   ],
   targets: [
@@ -29,7 +29,7 @@ let package = Package(
         .product(name: "RealmSwift", package: "Realm"),
         "Alamofire",
         "SDWebImageSwiftUI",
-        "Nimble",
+       // "Nimble",
         "Introspect"
       ]),
     .testTarget(

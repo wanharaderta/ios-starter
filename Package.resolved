@@ -11,33 +11,6 @@
         }
       },
       {
-        "package": "CwlCatchException",
-        "repositoryURL": "https://github.com/mattgallagher/CwlCatchException.git",
-        "state": {
-          "branch": null,
-          "revision": "f809deb30dc5c9d9b78c872e553261a61177721a",
-          "version": "2.0.0"
-        }
-      },
-      {
-        "package": "CwlPreconditionTesting",
-        "repositoryURL": "https://github.com/mattgallagher/CwlPreconditionTesting.git",
-        "state": {
-          "branch": null,
-          "revision": "02b7a39a99c4da27abe03cab2053a9034379639f",
-          "version": "2.0.0"
-        }
-      },
-      {
-        "package": "Nimble",
-        "repositoryURL": "https://github.com/Quick/Nimble.git",
-        "state": {
-          "branch": null,
-          "revision": "d258c638d9ef214723a857a23f4113773aad28fb",
-          "version": "9.1.0"
-        }
-      },
-      {
         "package": "Realm",
         "repositoryURL": "https://github.com/realm/realm-cocoa.git",
         "state": {
@@ -53,6 +26,15 @@
           "branch": null,
           "revision": "28ed052d10d2245542b4fbdc71d388febb1e9bc4",
           "version": "10.6.0"
+        }
+      },
+      {
+        "package": "Resolver",
+        "repositoryURL": "https://github.com/hmlongco/Resolver.git",
+        "state": {
+          "branch": null,
+          "revision": "e0bcbc721818328c192a1eb22c6a6ca48029e550",
+          "version": "1.4.1"
         }
       },
       {
